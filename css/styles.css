@@ -1,0 +1,22 @@
+body {
+  color: #434455;
+  background: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+.logo {
+  text-decoration: none;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.contact-link {
+  text-decoration: none;
+}
