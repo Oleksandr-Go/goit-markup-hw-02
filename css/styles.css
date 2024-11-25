@@ -4,11 +4,11 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-ul,
-li {
+ul {
   list-style-type: none;
 }
 
+/* навігація хедера */
 .menu {
   background: #fff;
 }
@@ -38,7 +38,9 @@ li {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+/* !!! */
 
+/* контакти в навігації хедера */
 .contact-link {
   font-style: normal;
   text-decoration: none;
@@ -56,12 +58,9 @@ li {
 .contact-link:focus {
   color: #404bbf;
 }
+/* !!! */
 
-.nav-link:active {
-  color: #404bbf;
-  text-decoration: underline;
-}
-
+/* секція з кнопкою */
 .main-page {
   background: #2e2f42;
 }
@@ -94,7 +93,9 @@ li {
 .page-button:focus {
   background: #404bbf;
 }
+/* !!! */
 
+/* секція з прихованим заголовком */
 .page-title {
   font-weight: 500;
   font-size: 20px;
@@ -112,7 +113,9 @@ li {
   color: #434455;
   font-family: "Roboto", sans-serif;
 }
+/* !!! */
 
+/* секція фахівців */
 .our-sect {
   background: #f4f4fd;
 }
@@ -150,7 +153,9 @@ li {
   color: #434455;
   font-family: "Roboto", sans-serif;
 }
+/* !!! */
 
+/* секція портфоліо */
 .portf-title {
   font-weight: 700;
   font-size: 36px;
@@ -178,7 +183,9 @@ li {
   color: #434455;
   font-family: "Roboto", sans-serif;
 }
+/* !!! */
 
+/* підвал сторінки */
 .under {
   background: #2e2f42;
 }
@@ -195,3 +202,4 @@ li {
   color: #f4f4fd;
   font-family: "Roboto", sans-serif;
 }
+/* !!! */
