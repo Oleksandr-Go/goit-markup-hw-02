@@ -9,12 +9,24 @@ li {
   list-style-type: none;
 }
 
-.hed-nav {
+.menu {
   background: #fff;
 }
 
-.logo {
+.logo-upp,
+.logo-under {
+  color: #4d5ae5;
   text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  font-family: "Raleway", sans-serif;
+}
+
+.accent-upp {
+  color: #2e2f42;
 }
 
 .nav-link {
@@ -36,6 +48,18 @@ li {
   letter-spacing: 0.02em;
   color: #434455;
   font-family: "Roboto", sans-serif;
+}
+
+.nav-link:hover,
+.contact-link:hover,
+.nav-link:focus,
+.contact-link:focus {
+  color: #404bbf;
+}
+
+.nav-link:active {
+  color: #404bbf;
+  text-decoration: underline;
 }
 
 .main-page {
@@ -63,6 +87,12 @@ li {
   font-family: "Roboto", sans-serif;
   width: 169px;
   height: 56px;
+  cursor: pointer;
+}
+
+.page-button:hover,
+.page-button:focus {
+  background: #404bbf;
 }
 
 .page-title {
@@ -118,5 +148,50 @@ li {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  font-family: "Roboto", sans-serif;
+}
+
+.portf-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+}
+
+.portf-cart {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+}
+
+.portf-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+}
+
+.under {
+  background: #2e2f42;
+}
+
+.accent-under {
+  color: #f4f4fd;
+}
+
+.under-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
   font-family: "Roboto", sans-serif;
 }
