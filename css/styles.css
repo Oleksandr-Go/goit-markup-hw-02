@@ -44,7 +44,6 @@ ul {
 .contact-link {
   font-style: normal;
   text-decoration: none;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -76,7 +75,6 @@ ul {
 }
 
 .page-button {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -84,8 +82,6 @@ ul {
   letter-spacing: 0.04em;
   color: #fff;
   font-family: "Roboto", sans-serif;
-  width: 169px;
-  height: 56px;
   cursor: pointer;
 }
 
@@ -106,7 +102,6 @@ ul {
 }
 
 .text-facts {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -145,7 +140,6 @@ ul {
 }
 
 .title-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -176,7 +170,6 @@ ul {
 }
 
 .portf-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -195,7 +188,6 @@ ul {
 }
 
 .under-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
