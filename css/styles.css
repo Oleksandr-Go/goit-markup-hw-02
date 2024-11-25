@@ -9,14 +9,114 @@ li {
   list-style-type: none;
 }
 
+.hed-nav {
+  background: #fff;
+}
+
 .logo {
   text-decoration: none;
 }
 
 .nav-link {
+  font-family: "Roboto", sans-serif;
   text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .contact-link {
+  font-style: normal;
   text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+}
+
+.main-page {
+  background: #2e2f42;
+}
+
+.main-page-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+
+.page-button {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  background: #4d5ae5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  width: 169px;
+  height: 56px;
+}
+
+.page-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+}
+
+.text-facts {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
+}
+
+.our-sect {
+  background: #f4f4fd;
+}
+
+.prof-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+}
+
+.prof-cart {
+  background: #fff;
+}
+
+.title-cart {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+}
+
+.title-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+  font-family: "Roboto", sans-serif;
 }
